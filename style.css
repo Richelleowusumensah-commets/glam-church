@@ -10,6 +10,12 @@ header {
     color :black;
     padding :30px;
 }
+header img {
+    width: auto;
+    height: 150px;
+    margin-right: 15px;
+    vertical-align: middle;
+}
 section {
     padding: 20px;
     margin: 10px;
